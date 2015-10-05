@@ -2,7 +2,7 @@ How to edit code through Github:
 1. Make any changes to code through Github folder
 2. Edit the Summary and Description through Github app
 3. Press commit to master
-4. Press publish
+4. Press publish/sync
 
 The master branch is the main branch and any other branches created will be based off of it.
 
