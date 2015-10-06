@@ -1,4 +1,5 @@
 How to edit code through Github:
+Step 0: Everytime you open Github press sync to get any changes other people made.
 1. Make any changes to code through Github folder
 2. Edit the Summary and Description through Github app
 3. Press commit to master
